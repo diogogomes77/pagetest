@@ -590,11 +590,6 @@
   dependencies:
     "lru-cache" "^6.0.0"
 
-"husky@^7.0.4":
-  "integrity" "sha512-vbaCKN2QLtP/vD4yvs6iz6hBEo6wkSzs8HpRah1Z6aGmF2KW5PdYuAd7uX5a+OyBZHBhd+TFLqgjUgytQr4RvQ=="
-  "resolved" "https://registry.npmjs.org/husky/-/husky-7.0.4.tgz"
-  "version" "7.0.4"
-
 "indent-string@^4.0.0":
   "integrity" "sha512-EdDDZu4A2OyIK7Lr/2zG+w5jmbuk1DVBnEwREQvBzspBJkCEbRa8GxU1lghYcaGJCnRWibjDXlq779X1/y5xwg=="
   "resolved" "https://registry.npmjs.org/indent-string/-/indent-string-4.0.0.tgz"
