@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/diogogomes77/pagetest/compare/v0.0.1...v0.0.4) (2022-04-13)
+
+
+### Bug Fixes
+
+* remove husky ([8a5ccfd](https://github.com/diogogomes77/pagetest/commit/8a5ccfd4a08773c4cfc4ca782278becc03cfe88f))
+
 ### [0.0.3](https://github.com/diogogomes77/pagetest/compare/v0.0.1...v0.0.3) (2022-04-12)
 
 
