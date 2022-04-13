@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/diogogomes77/pagetest/compare/v0.0.4...v0.0.5) (2022-04-13)
+
+
+### Bug Fixes
+
+* deploy ([fa66d7d](https://github.com/diogogomes77/pagetest/commit/fa66d7d7fede4ff1e7b2dce7fbee324cd6007e90))
+
 ### [0.0.4](https://github.com/diogogomes77/pagetest/compare/v0.0.1...v0.0.4) (2022-04-13)
 
 
